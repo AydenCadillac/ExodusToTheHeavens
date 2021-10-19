@@ -30,3 +30,8 @@ and a tinge of fantasy.
 - The weather isn't too bad, just don't fall into shark-infested waters;
 
 And much more !
+
+
+Until the wiki comes in, go and give it a shot !
+
+(Take the .jar file to Curseforge, in case you don't know)

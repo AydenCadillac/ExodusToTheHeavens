@@ -34,4 +34,4 @@ And much more !
 
 Until the wiki comes in, go and give it a shot !
 
-(Take the .jar file to Curseforge, in case you don't know)
+(Take the .zip file to Curseforge, in case you don't know)

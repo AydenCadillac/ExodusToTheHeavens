@@ -32,6 +32,6 @@ and a tinge of fantasy.
 And much more !
 
 
-Until the wiki comes in, go and give it a shot !
+The wiki is ready, and explains pretty much everything ! Keep in mind, though, that some of the info simply belongs to the mods, so feel free to visit their wikis (or read their in-game books) for in-depth info :D
 
 (Take the .zip file to Curseforge, in case you don't know)

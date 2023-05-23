@@ -35,3 +35,4 @@ And much more !
 The wiki is ready, and explains pretty much everything ! Keep in mind, though, that some of the info simply belongs to the mods, so feel free to visit their wikis (or read their in-game books) for in-depth info :D
 
 (Take the .zip file to Curseforge, in case you don't know)
+((also I gave up on the project so don't bother with reporting issues or whatever))
